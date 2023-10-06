@@ -2,12 +2,12 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "In a counter-flow heat exchanger, a hot fluid is cooled from 100°C to 70°C by using a cold fluid that gets heated from 25°C to 55°C. The LMTD value of the heat exchanger is",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "45°C",
+        "b": "25°C",
+        "c": "70°C",
+        "d": "100°C"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -19,12 +19,46 @@
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "NTU effectiveness method for the analysis of heat exchanger is used when:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "outlet temperatures of both fluids are known but inlet temperatures are unknown",
+        "b": "inlet temperatures of both fluids are known but outlet temperatures are unknown",
+        "c": "outlet temperatures of any one fluid is known",
+        "d": "inlet temperatures of any one fluid is known"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following heat exchangers gives parallel and linear temperature profile for both cold and hot fluid?",
+      "answers": {
+        "a": "Parallel flow with unequal heat capacities",
+        "b": "Counter flow with equal heat capacities",
+        "c": "Parallel flow with equal heat capacities",
+        "d": "Crossed flow with unequal heat capacities"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In a heat exchanger, it is observed that ΔT1 = ΔT2, where ΔT1 is the temperature difference between the two single phase fluid streams at one end and ΔT2 is the temperature difference at the other end. This heat exchanger is",
+      "answers": {
+        "a": "a condenser",
+        "b": "an evaporator",
+        "c": "a counter flow heat exchanger",
+        "d": "a parallel flow heat exchanger"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -34,6 +68,25 @@
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
-    }
+    },
+    {
+      "question": "TIn a double-pipe heat exchanger, the cold fluid is water with an inlet temperature 20°C and mass flow rate 20 kg/s and the hot fluid water inlet temperature 80°C and mass flow rate 10 kg/s. Assume that for water Cp = 4.2 kJ/kg°C, independent of temperature. What is the maximum temperature to which the cold fluid can be heated in a parallel flow and in a counter flow heat exchanger?",
+      "answers": {
+        "a": "80°C in both parallel flow and counter flow",
+        "b": "50°C in both parallel flow and counter flow",
+        "c": "40°C in parallel flow and 50°C in counter flow",
+        "d": "40°C in parallel flow and 80°C in counter flow"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }    
   ]
 }
+
+ 
