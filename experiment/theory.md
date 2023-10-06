@@ -3,9 +3,10 @@
                             <p style="padding-bottom: 10px;">One would be surprised to know that a lot of important processes, some very common ones, which we encounter in our everyday life, have a lot to do with heat transfer from one medium to another. The refrigerators and the air conditioners at our homes function on this very principle of heat transfer. Looking at nature, the evaporation of water from oceans is also an example of heat transfer.
 When we look at transfer of heat from one or more media to another medium or media, the media giving the heat undergoes cooling and vice versa. Hence, the name 'heat exchangers'. Our lungs also act as heat exchangers and are quite efficient at that primarily due to the large surface to volume ratio. The radiators in cars also exchange heat with water releasing heat into the air passing through the radiator and in turn, cooling the engine. Heat exchangers are widely employed in industries for large scale processes. Condensers and boilers in steam plants are one of the examples. Heat exchangers have undergone numerous modifications over the ages and have become quite efficient compared to their predecessors. They have new designs, new materials and have been customized to meet specific needs. We will have a look at some of the most common types of them.</p>
                             <p style="text-align:left; font-size:16px; font-weight:bold;">Types Of Heat Exchangers</p>
-                            <p style="padding-bottom: 10px;">Heat exchangers can be classified on various parameters- design and construction, flow arrangement, transfer process and number and state of fluids</p>
 
-                            <p style="text-align:left; font-size:16px; font-weight:bold;">Flow Arrangement:</p>
+                        <p >Heat exchangers can be classified on various parameters- design and construction, flow arrangement, transfer process and number and state of fluids</p>
+
+                            <p>Flow Arrangement:</p>
                             <p style="padding-bottom: 10px;"><b>Co-current (Parallel) flow</b>- As the name suggests, the flow of the hot and the cold fluid is taking place in the same direction in this case. As the graph shows, the temperature difference between the hot and the cold fluid keeps on decreasing from one end to the other.</p>
                             
                             
@@ -15,7 +16,7 @@ When we look at transfer of heat from one or more media to another medium or med
                             </p>
                             <p style="padding-bottom: 10px;"><b>Counter current flow-</b>In this setup, the hot fluid enters from one end of the exchanger and the cold from the opposite end. This results in nearly constant temperature difference between the hot and the cold fluid. This is a significant aspect and makes counter current exchangers preferable over co-current exchangers. We will discuss this point later when we talk about LMTD.</p>
                             <p style="padding-bottom: 10px;"><b>Crossed flow-</b>The cold and the hot fluid flow axis is at an angle to each other and hence, the fluids cross each other in this arrangement. The most common type of crossed flow exchanges has the angle between axes as 90 degrees.</p>
-<br><br><p style="text-align: center;">
+
                                 <img src="images/4.jpg" style="width:450px;height:350px;">
                             <br><br><p style="text-align:left; font-size:16px; font-weight:bold;">Transfer Process:</p>
                             <p style="padding-bottom: 10px;"><b>Direct contact heat exchangers-</b>
