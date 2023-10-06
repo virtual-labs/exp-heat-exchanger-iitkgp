@@ -12,8 +12,8 @@ Parallel Flow: </br>
 <img src="images/exp2_2.png"  /> </br>
 
 4. Click React button to run the simulation.
-                            
-5. You can save by copy the output data. 
-6. Reset simulation if required , after any value change it't set default values.             
+5. Click Pause button to pause the simulation                            
+6. You can save by copy the output data. 
+7. Reset simulation if required , after any value change it't set default values.             
                             
          
