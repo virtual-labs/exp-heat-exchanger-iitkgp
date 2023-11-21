@@ -71,13 +71,13 @@ This class of exchangers do not have a physical barrier between the hot and the 
 <p style="padding-bottom: 10px;">Total heat transfer in the exchanger=UAΔΩ</p>
 <p style="padding-bottom: 10px;">where ΔΩ=logarithmic mean temperature difference (LMTD)</p>
 <p style="padding-bottom: 10px;"><b>Logarithmic mean temperature difference (LMTD)</b> can be defined as that temperature difference which, if constant, would give the same rate of heat transfer as actually occurs under variable conditions of temperature difference.</p>
-<p style="padding-bottom: 10px;">LMTD for a shell and heat tube exchanger, when calculated, comes out to be `((T_2-T_1)) / ln(T_2/T_1 )`</p>
-<p style="padding-bottom: 10px;">where,</p>
+<p style="padding-bottom: 10px;">LMTD for a shell and heat tube exchanger, when calculated, comes out to be </p>
+<p style="padding-bottom: 10px;">$$\frac{(T_2-T_1)}{ln(\frac{T_2}{T_1})} \ where$$</p>
 <p style="padding-bottom: 10px;">T2-Temperature difference between shell and tube temperatures at one end</p>
 <p style="padding-bottom: 10px;">T1-Temperature difference between shell and tube temperatures at the other end</p>
 <p style="padding-bottom: 10px;">Since the temperature difference between the tube and the shell in a counter current flow remains approximately constant throughout, its LMTD is greater than for that of co-current flow. This means that counter current flow will give greater heat transfer than co-current flow for the same surface area. As a result of this, counter current flow is generally preferred over co-current flow.</p>      
                                 
-                        </div>
+                       
 
  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-mml-chtml.js"></script>    
  
