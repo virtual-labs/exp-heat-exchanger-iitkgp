@@ -2,5 +2,4 @@
 
 This experiment enables a student to learn
 
-- The purpose of this experiment is: To find the heat flux and heat transfer coefficients at various service and process water flow rates. 
-- To determine the heat conserved, that is, the difference between the heat the hot water gives up and what the cold water receives.
+Heat exchangers are used to transfer heat from one medium to another. These media may be a gas, liquid, or a combination of both. The media may be separated by a solid wall to prevent mixing or may be in direct contact. Heat exchangers are required to provide heating and/or cooling to meet a process requirement.
