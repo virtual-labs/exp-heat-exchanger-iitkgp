@@ -1,0 +1,107 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "In counter flow heat exchangers between two fluids",
+      "answers": {
+        "a": "Both the fluids at inlet are in their hottest state",
+        "b": "Both the fluids at exit are in their hottest state",
+        "c": "One fluid in hottest state and the other in coldest state",
+        "d": "Any combination possible depending heat exchanger design"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "A heat exchanger is used to heat cold water (CP = 4.18 kJ/kgK) entering at 12 ºC at a rate of 1.2 kg/s by hot air (CP = 1.0 kJ/kgK) at 90ºC at rate of 2.5 kg/s. The highest rate of heat transfer in the heat exchangers is:",
+      "answers": {
+        "a": "82kW",
+        "b": "195kW",
+        "c": "391kW",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": " Air can be best heated by steam in a heat exchanger of",
+      "answers": {
+        "a": "Plate type",
+        "b": "Double pipe type with fins on steam side",
+        "c": "Double pipe type with fins on air side",
+        "d": "Shell and tube type"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which type of heat exchanger an automobile radiator is?",
+      "answers": {
+        "a": "Parallel flow type",
+        "b": "Counter flow type",
+        "c": "Regenerator type",
+        "d": "Cross flow type"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following statements is correct?",
+      "answers": {
+        "a": "In counter flow heat exchangers, fluids enter and leave at perpendicular ends",
+        "b": "In cross flow heat exchangers, fluid flow is in the same direction",
+        "c": "In parallel flow heat exchangers, fluids enter and leave at opposite ends",
+        "d": "In double pipe heat exchangers, one pipe is fixed concentrically inside a larger pipe"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In a parallel flow heat exchanger, the two fluid streams hot and cold travel _______",
+      "answers": {
+        "a": "in the same direction",
+        "b": "in the opposite direction",
+        "c": "initially in the same direction and then in the opposite direction",
+        "d": "initially in the opposite direction and then in the same direction"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
