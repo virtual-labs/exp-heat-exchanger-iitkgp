@@ -7,5 +7,5 @@
 - Warren L.McCabe,Julian C. Smith,Peter Harriot, "Unit Operation of Chemical Engineering", McGraw-Hill Companies,New York,International Edition(2005).
 
 #### Video Lectures
-- [Digital Signal Processing Introduction](https://nptel.ac.in/)
+- [Heat Exchangers](https://www.youtube.com/watch?v=Kj0ebo-vVAg&t=8s)
 
